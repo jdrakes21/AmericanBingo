@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "SSH FS - umbc_gl",
+			"uri": "ssh://umbc_gl/afs/umbc.edu/users/j/d/jdrakes1/home"
+		},
+		{
+			"uri": "ssh://umbc_gl/afs/umbc.edu/users/j/d/jdrakes1"
+		}
+	]
+}
